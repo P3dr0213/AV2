@@ -1,0 +1,8 @@
+.aeronaves-page { padding-bottom: 40px; }
+.controls { display: flex; gap: 12px; margin-bottom: 14px; }
+.form-container, .table-container { background: white; padding: 16px; border-radius: 10px; box-shadow: 0 6px 18px rgba(2,6,23,0.04); margin-bottom: 16px; }
+.form-container form { display: flex; gap: 8px; flex-wrap: wrap; }
+.form-container input, .form-container select { padding: 10px; border-radius: 8px; border: 1px solid #e6eef8; }
+.form-container button { background: #0d6efd; color: white; border: none; padding: 10px 14px; border-radius: 8px; cursor: pointer; }
+.table-container table { width: 100%; border-collapse: collapse; }
+.table-container th, .table-container td { padding: 10px; border-bottom: 1px solid #f1f5f9; text-align: left; }
